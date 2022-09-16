@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Parte de navegação*/
+nav {
+    width: 100%;
+    background-color: #f0f0f0;
+    display: flex;
+    align-items: center;
+    padding: 10px 0;		
+}
+
+nav h1 {
+    font-size: 36px;
+    margin-left: 50px;
+    color: #096796;
+}
+
+.lista-nav {
+    font-size: 20px;
+    font-weight: 600;
+    list-style-type: none;
+    margin-left: auto;
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.lista-nav li {
+    padding: 0 26px;
+}
+
+.lista-nav a {
+    color: #096796;
+}
+
+.lista-nav a:hover {
+    color: #25B1FA;
+}
+
+#logo {
+    max-width: 80px;
+    margin-left: 50px;
+}
+
+/*Formulários de Cadastro e Consulta */
+.form-cadastro, .form-consulta {
+    margin: 15px 90px 30px 90px;
+}
+
+.form-cadastro h2, .form-consulta h2 {
+    font-size: 24px;
+    color: #096796;
+    margin-bottom: 25px;
+}
+
+.input-padrao {
+	display: block;
+	margin: 5px 0 28px;
+	padding: 10px 25px;
+	width: 50%;
+}
+
+.enviar-cadastro, .consultar-cadastro {
+    width: 50%;
+    font-size: 18px;
+    font-weight: 600;
+	color: #FDFDFD;
+	border: none;
+	background-color: #096796;
+	padding: 10px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.enviar-cadastro:hover, .consultar-cadastro:hover {
+    background-color: #25B1FA;
+}
+
+/*Visualização de Cadastro e Consulta */
+
+.visualizacao-protocolo, .autenticacao_cadastro {
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+.botao_imprimir {
+    margin-left: 50px;
+    width: 20%;
+    font-size: 18px;
+    font-weight: 600;
+	color: #FDFDFD;
+	border: none;
+	background-color: #096796;
+	padding: 10px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
