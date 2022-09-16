@@ -1,9 +1,9 @@
-## Projeto Cadastro Atendimento - Cooperativa de Crédito
+# Projeto Cadastro Atendimento - Cooperativa de Crédito
 
-# Projeto realizado no curso Tecnólogo Sistemas para Internet, da disciplima de Programação Back-end II.
+## Projeto realizado no curso Tecnólogo Sistemas para Internet, da disciplima de Programação Back-end II.
 
 
-# Requesitos exigidos para o projeto:
+## Requesitos exigidos para o projeto:
 
 1 - Para o registrar o protocolo, será necessário preencher os seguintes campos: solicitante, descrição e e-mail. Além destes campos, o sistema irá armazenar em cada registro o ano, a data/hora do cadastro e a situação de status 1 (aguardando análise). O número do protocolo é a chave primária do registro no banco de dados (não é preciso gerar número especifico para o protocolo).
 
@@ -14,10 +14,11 @@
 4 – O sistema deve ser construído utilizando a linguagem PHP, banco de dados Mysql com PDO.
 
 5 – Seguir a estrutura da tabela protocolo.
+
 <img src="https://sistemasead.unicesumar.edu.br/flex/amfphp/services/Portal/ImagemQuestionario2/QUE_143398_419448_1.png" />
 
 
-# Como uso a aplicação?
+## Como uso a aplicação?
 
 Baixe o XAMPP para o seu computador.
 
