@@ -1,7 +1,6 @@
 # Projeto Cadastro Atendimento - Cooperativa de Crédito
 
-## Projeto realizado no curso Tecnólogo Sistemas para Internet, da disciplima de Programação Back-end II.
-
+Projeto realizado no curso Tecnólogo Sistemas para Internet, da disciplima de Programação Back-end II.
 
 ## Requesitos exigidos para o projeto:
 
