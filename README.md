@@ -19,7 +19,7 @@ Projeto realizado no curso Tecnólogo Sistemas para Internet, da disciplina de P
 
 ## Como uso a aplicação?
 
-Baixe o XAMPP para o seu computador.
+Baixe o XAMPP para o seu computador. Em seguida instale e execute o Apache e MySQL.
 
 Depois, baixe ou clone este repositório na sua máquina local, dentro da pasta htdocs, que está dentro da pasta de instalação do XAMPP.
 
