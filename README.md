@@ -33,5 +33,5 @@ Na aba do seu navegador digite localhost/nome-da-pasta-do-projeto. Prontinho, vo
   <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <a href="https://en.wikipedia.org/wiki/XAMPP" target="_blank"><img height="25px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/182px-XAMPP_logo.svg.png"></a>
+  <img height="25px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/182px-XAMPP_logo.svg.png">
 </div
